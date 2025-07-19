@@ -1,4 +1,9 @@
-# Capstone Project 2
+# Capstone Project HTML + CSS
+
+<img width="1894" height="899" alt="image" src="https://github.com/user-attachments/assets/6d793222-77ce-42be-9a64-d64c7beca9d5" />
+<img width="1900" height="897" alt="image" src="https://github.com/user-attachments/assets/d46aef3a-e152-4c79-b8fe-0aaaae2ae64c" />
+
+
 
 A modern, responsive personal website built with HTML and CSS. This project demonstrates advanced CSS techniques, including animated gradients, grid layouts, custom fonts, and responsive design.
 
